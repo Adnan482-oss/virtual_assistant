@@ -5,7 +5,7 @@ from groq import Groq
 
 # Initialize the Groq API client
 client = Groq(
-    api_key="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",  # Use your API key securely
+    api_key="",  # Use your API key securely
 )
 
 # Initialize the speech recognition engine
